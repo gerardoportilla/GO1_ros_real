@@ -1,1 +1,1 @@
-# GO1_ros_real
+# GO1_unitree_ros_real
