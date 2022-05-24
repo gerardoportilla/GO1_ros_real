@@ -4,6 +4,7 @@ with this package you can control unitree's GO1 robot with ROS . The SDK is alre
 
 
 catkin_make
+
 roslaunch unitree_legged_real real.launch 
 
 
